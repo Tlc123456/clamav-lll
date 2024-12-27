@@ -1,0 +1,14 @@
+# ninja log v5
+17	32	0	CMakeFiles/clean.additional	c313c7df7a6a27c5
+6348	6669	7568946611796015	helloworld1226.exe	7ca74d88c9026024
+18	1377	7568946558324318	E:/C++_project/helloworld1226/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/helloworld1226_autogen/mocs_compilation.cpp	65fd163db36edb88
+32	107	0	clean	151b934da8899df
+18	1377	7568946558324318	helloworld1226_autogen/timestamp	65fd163db36edb88
+18	1377	7568946558324318	helloworld1226_autogen/mocs_compilation.cpp	65fd163db36edb88
+18	1377	7568946558324318	E:/C++_project/helloworld1226/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/helloworld1226_autogen/timestamp	65fd163db36edb88
+1380	3924	7568946584370368	CMakeFiles/helloworld1226.dir/main.cpp.obj	31bae105bbb8c2c0
+1378	6348	7568946608611975	CMakeFiles/helloworld1226.dir/helloworld1226_autogen/mocs_compilation.cpp.obj	34c2a6aefeab53c7
+1382	4315	7568946588285542	CMakeFiles/helloworld1226.dir/mainwindow.cpp.obj	935129a342b9b613
+3	840	7568925516201867	build.ninja	8278485493fe43cb
+1384	6028	7568946605403680	CMakeFiles/helloworld1226.dir/clamavengine.cpp.obj	5b51c2e900db25f9
+1387	6221	7568946607335399	CMakeFiles/helloworld1226.dir/clamavthread.cpp.obj	be36dcb4bfa0da7b
